@@ -4,31 +4,32 @@
   box-sizing: border-box;
 }
 
-body{
+body {
   max-width: 100%;
   margin-top: 5.2rem;
 }
+
 .main-nav {
-display: block;
-justify-content: space-between;
-width: 100%;
-position: fixed;
-z-index: 100;
-top: 0;
+  display: block;
+  justify-content: space-between;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  top: 0;
 }
 
-.fst3{
+.fst3 {
   width: 80%;
   padding: 0;
   margin: 0;
 }
 
-.contain-nav-div{
-display: flex;
-justify-content: space-between;
-background-color: black;
-color: white;
-max-width: 100%;
+.contain-nav-div {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+  max-width: 100%;
 }
 
 .nav-ul2, .nav-ul1 {
@@ -59,7 +60,7 @@ max-width: 100%;
   float: left;
 }
 
-.logo{
+.logo {
   margin-right: 0;
   max-width: 100%;
 }
@@ -80,10 +81,9 @@ max-width: 100%;
   cursor: pointer;
 }
 
-
 .btn1:hover {
-    background-color: rgb(172, 25, 240);
-    color: white;
+  background-color: rgb(172, 25, 240);
+  color: white;
 }
 
 .section-1 {
@@ -144,7 +144,7 @@ max-width: 100%;
   background-size: cover;
   background-color: black;
   z-index: 1;
-  background-position: top left; 
+  background-position: top left;
 }
 
 .h5-cover a, 
@@ -167,7 +167,7 @@ i,
 
 .left-caption {
   position: absolute;
-  bottom:0;
+  bottom: 0;
 }
 
 .left-caption2 {
@@ -175,7 +175,7 @@ i,
   bottom: 0;
 }
 
-.grid-div{
+.grid-div {
   display: grid;
   grid-template-columns: 1.8fr 1.8fr 1.8fr 1.8fr;
   position: relative;
@@ -188,14 +188,14 @@ i,
 .gg2, 
 .gg3, 
 .gg4 {
-margin-bottom: 4rem;
+  margin-bottom: 4rem;
 }
 
 .gg1 {
   display: block;
 }
 
-.latest-news{
+.latest-news {
   font-size: 3rem;
   color: red;
   margin: 3rem 0 0rem 4rem;
@@ -206,17 +206,17 @@ margin-bottom: 4rem;
 
 .get-update a {
   font-size: 1rem;
-  color: red; 
+  color: red;
   margin: 3rem 4rem 0rem 0;
   text-decoration: none;
 }
 
-.image-small{
+.image-small {
   background-image: url("images/23.jpg");
   height: 11rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center; 
+  background-position: top center;
 }
 
 .image-small4 {
@@ -224,7 +224,7 @@ margin-bottom: 4rem;
   height: 11rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center; 
+  background-position: top center;
 }
 
 .image-small3 {
@@ -232,7 +232,7 @@ margin-bottom: 4rem;
   height: 11rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center; 
+  background-position: top center;
 }
 
 .image-small2 {
@@ -240,7 +240,7 @@ margin-bottom: 4rem;
   height: 11rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center; 
+  background-position: top center;
 }
 
 .image-small5 {
@@ -248,7 +248,7 @@ margin-bottom: 4rem;
   height: 11rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center; 
+  background-position: top center;
 }
 
 .image-small6 {
@@ -256,7 +256,7 @@ margin-bottom: 4rem;
   height: 11rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center; 
+  background-position: top center;
 }
 
 .image-small7 {
@@ -264,7 +264,7 @@ margin-bottom: 4rem;
   height: 11rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center; 
+  background-position: top center;
 }
 
 .image-small8 {
@@ -272,10 +272,10 @@ margin-bottom: 4rem;
   height: 11rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center; 
+  background-position: top center;
 }
 
-.small-ul2{
+.small-ul2 {
   list-style: none;
   margin: 0.4rem;
   width: 100%;
@@ -309,7 +309,7 @@ margin-bottom: 4rem;
   position: relative;
 }
 
-.jj{
+.jj {
   padding: 2rem;
   height: auto;
   max-width: 21rem;
@@ -323,7 +323,7 @@ margin-bottom: 4rem;
   font-size: 2rem;
 }
 
-.j62 strong{
+.j62 strong {
   padding-left: 7rem;
 }
 
@@ -336,7 +336,7 @@ margin-bottom: 4rem;
   background-color: rgb(241, 225, 223);
   text-decoration: none;
   color: black;
-  font-size: 1rem; 
+  font-size: 1rem;
   text-align: left;
 }
 
@@ -345,36 +345,37 @@ margin-bottom: 4rem;
   background-color: rgb(245, 236, 235);
   text-decoration: none;
   color: black;
-  font-size: 1rem; 
+  font-size: 1rem;
 }
 
 .js111 ul {
   list-style: none;
 }
 
-.jeee{
+.jeee {
   position: relative;
   z-index: 2;
   max-width: 18rem;
 }
 
-.js111 ul li .fa{
+.js111 ul li .fa {
   color: black;
-  padding: 0.5rem ;
+  padding: 0.5rem;
 }
 
 .details1 {
   max-width: 25rem;
   background-color: rgb(241, 221, 194);
   color: black;
-  font-size: 1rem; 
+  font-size: 1rem;
   padding: 1rem;
 }
 
 .small-pics {
   position: absolute;
   top: -2rem;
-  left: 2rem;;
+  left: 2rem;
+  ;
 }
 
 .forth-grid {
@@ -391,7 +392,7 @@ margin-bottom: 4rem;
   height: 16rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;  
+  background-position: top center;
   position: relative;
 }
 
@@ -400,7 +401,7 @@ margin-bottom: 4rem;
   height: 16rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;  
+  background-position: top center;
   position: relative;
 }
 
@@ -409,7 +410,7 @@ margin-bottom: 4rem;
   height: 16rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;  
+  background-position: top center;
   position: relative;
 }
 
@@ -418,7 +419,7 @@ margin-bottom: 4rem;
   height: 16rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;  
+  background-position: top center;
   position: relative;
 }
 
@@ -427,7 +428,7 @@ margin-bottom: 4rem;
   height: 16rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;  
+  background-position: top center;
   position: relative;
 }
 
@@ -436,7 +437,7 @@ margin-bottom: 4rem;
   height: 16rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;  
+  background-position: top center;
   position: relative;
 }
 
@@ -445,7 +446,7 @@ margin-bottom: 4rem;
   height: 16rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;  
+  background-position: top center;
   position: relative;
 }
 
@@ -454,7 +455,7 @@ margin-bottom: 4rem;
   height: 16rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;  
+  background-position: top center;
   position: relative;
 }
 
@@ -462,48 +463,51 @@ margin-bottom: 4rem;
   color: red;
   text-rendering: optimizeLegibility;
   font-size: 3rem;
-  vertical-align: baseline;;
+  vertical-align: baseline;
+  ;
 }
 
 .apps1 {
   color: red;
   text-rendering: optimizeLegibility;
   font-size: 3rem;
-  vertical-align: baseline;;
-  font-weight: bolder;  
+  vertical-align: baseline;
+  ;
+  font-weight: bolder;
 }
 
 .h1-grid2 a, .h5-grid a {
   text-decoration: none;
   color: white;
-  vertical-align: baseline;;
+  vertical-align: baseline;
+  ;
   font-weight: bolder;
 }
 
 .inner-caption22 {
-position: absolute;
-max-width: 32rem;
-padding: 1rem;
-top: 7rem;
-z-index: 3;
+  position: absolute;
+  max-width: 32rem;
+  padding: 1rem;
+  top: 7rem;
+  z-index: 3;
 }
 
-.small-flex{
+.small-flex {
   display: flex;
   justify-content: space-between;
   text-decoration: none;
   padding: 0.5rem;
 }
 
-.small-flex ul li a{
+.small-flex ul li a {
   text-decoration: none;
   color: rgb(255, 4, 4);
   font-size: 1.2rem;
-  padding: 0.4rem; 
+  padding: 0.4rem;
   line-height: 1.5rem;
 }
 
-.small-flex ul{
+.small-flex ul {
   background-color: rgb(245, 236, 235);
   text-decoration: none;
   color: rgb(255, 4, 4);
@@ -517,23 +521,23 @@ z-index: 3;
   width: 6rem;
 }
 
-.small-flex11 ul li a{
+.small-flex11 ul li a {
   color: rgb(32, 2, 2);
   font-size: 1.2rem;
-  line-height: 2rem; 
+  line-height: 2rem;
   text-decoration: inherit;
 }
 
 .small-flex11 ul {
   background-color: rgb(248, 250, 222);
   font-size: 1.2rem;
-  padding: 2rem; 
+  padding: 2rem;
   list-style-type: disc;
 }
 
 .grid-last {
-position: relative;
-background-image: url("images/28.jpg");
+  position: relative;
+  background-image: url("images/28.jpg");
 }
 
 .grid-last2 {
@@ -570,7 +574,7 @@ background-image: url("images/28.jpg");
   background-image: url("https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/img/deals-ribbon.svg");
   background-repeat: no-repeat;
   background-size: contain;
-  color:#000;
+  color: #000;
   display: block;
   height: 80px;
   overflow: hidden;
@@ -581,7 +585,6 @@ background-image: url("images/28.jpg");
   width: 80px;
   z-index: 17;
 }
-
 
 .story-dealDiscount div {
   transform: rotate(45deg);
@@ -598,7 +601,7 @@ background-image: url("images/28.jpg");
   font-weight: bolder;
   text-rendering: optimizeLegibility;
 }
-  
+
 .footer {
   width: 100%;
   height: 30rem;
@@ -641,7 +644,7 @@ background-image: url("images/28.jpg");
   justify-content: space-around;
   margin: 0.6rem;
   color: #9F9F9F;
-  list-style-type: none; 
+  list-style-type: none;
 }
 
 .last-footer1 li a {
@@ -651,7 +654,7 @@ background-image: url("images/28.jpg");
 }
 
 .last-footer1 li a:hover {
-  color: white
+  color: white;
 }
 
 .inner-foot22 {
@@ -674,61 +677,61 @@ background-image: url("images/28.jpg");
 }
 
 @media only screen and (max-width: 700px) {
-.contain-nav-div {
-  display: block;
-  justify-content: space-between;
-}
-  
-body{
-  overflow: scroll;
-}
-.fst3 {
-  display: none;
-}
-  
-.fst-big-div {
-  display: flex;
-  flex-direction: column;
-}
-  
-.section-1{
-  display: block;
-}
+  .contain-nav-div {
+    display: block;
+    justify-content: space-between;
+  }
 
-.right-2pic, .left-bigp{
-  width: 98%;
-}
+  body {
+    overflow: scroll;
+  }
 
-.left-bigp{
-  min-height: 300px;
-}
+  .fst3 {
+    display: none;
+  }
 
-.grid-div {
-  display: block;
-}
+  .fst-big-div {
+    display: flex;
+    flex-direction: column;
+  }
 
-.gg1, .gg2, .gg3, .gg4 {
-  margin-bottom: 0;
-}
+  .section-1 {
+    display: block;
+  }
 
-.forth-grid {
-  display: block;
-}
+  .right-2pic, .left-bigp {
+    width: 98%;
+  }
 
-.get-update {
-  font-size: 1.5rem;
-}
+  .left-bigp {
+    min-height: 300px;
+  }
 
-.latest-news {
-  font-size: 1rem;
-}
+  .grid-div {
+    display: block;
+  }
 
-.last-footer1 {
-  display: block;
-}
+  .gg1, .gg2, .gg3, .gg4 {
+    margin-bottom: 0;
+  }
 
-.foot55 {
-  padding: 1rem;
-}
+  .forth-grid {
+    display: block;
+  }
 
+  .get-update {
+    font-size: 1.5rem;
+  }
+
+  .latest-news {
+    font-size: 1rem;
+  }
+
+  .last-footer1 {
+    display: block;
+  }
+
+  .foot55 {
+    padding: 1rem;
+  }
 }
