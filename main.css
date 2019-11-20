@@ -147,10 +147,11 @@ body {
   background-position: top left;
 }
 
-.h5-cover a, 
-.h1-cover a, 
-.small-link1, 
-i, 
+
+.small-link1,
+.h5-cover a,
+.h1-cover a,
+i,
 .small-spam {
   text-decoration: none;
   color: white;
@@ -670,7 +671,7 @@ i,
 }
 
 .circlar-li:hover {
-  background-color: #9F9F9F;
+  background-color: #9f9f9f;
 }
 
 @media only screen and (max-width: 700px) {
