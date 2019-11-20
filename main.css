@@ -375,7 +375,6 @@ i,
   position: absolute;
   top: -2rem;
   left: 2rem;
-  ;
 }
 
 .forth-grid {
@@ -464,7 +463,6 @@ i,
   text-rendering: optimizeLegibility;
   font-size: 3rem;
   vertical-align: baseline;
-  ;
 }
 
 .apps1 {
@@ -472,15 +470,14 @@ i,
   text-rendering: optimizeLegibility;
   font-size: 3rem;
   vertical-align: baseline;
-  ;
   font-weight: bolder;
 }
 
-.h1-grid2 a, .h5-grid a {
+.h1-grid2 a, 
+.h5-grid a {
   text-decoration: none;
   color: white;
   vertical-align: baseline;
-  ;
   font-weight: bolder;
 }
 
@@ -643,13 +640,13 @@ i,
   display: flex;
   justify-content: space-around;
   margin: 0.6rem;
-  color: #9F9F9F;
+  color: #9f9f9f;
   list-style-type: none;
 }
 
 .last-footer1 li a {
   text-decoration: none;
-  color: #9F9F9F;
+  color: #9f9f9f;
   padding: 1rem;
 }
 
