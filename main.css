@@ -32,7 +32,25 @@ body {
   max-width: 100%;
 }
 
-.nav-ul2, .nav-ul1 {
+.small-link1,
+.h5-cover a,
+.h1-cover a,
+i,
+.small-spam {
+  text-decoration: none;
+  color: white;
+  z-index: 1;
+}
+
+.get-update a {
+  font-size: 1rem;
+  color: red;
+  margin: 3rem 4rem 0rem 0;
+  text-decoration: none;
+}
+
+.nav-ul2, 
+.nav-ul1 {
   display: flex;
   justify-content: space-around;
   padding: 0.2rem;
@@ -147,17 +165,6 @@ body {
   background-position: top left;
 }
 
-
-.small-link1,
-.h5-cover a,
-.h1-cover a,
-i,
-.small-spam {
-  text-decoration: none;
-  color: white;
-  z-index: 1;
-}
-
 .make-big {
   font-size: 2rem;
 }
@@ -203,13 +210,6 @@ i,
   padding: 0;
   display: flex;
   justify-content: space-between;
-}
-
-.get-update a {
-  font-size: 1rem;
-  color: red;
-  margin: 3rem 4rem 0rem 0;
-  text-decoration: none;
 }
 
 .image-small {
