@@ -9,12 +9,12 @@ body{
   margin-top: 5.2rem;
 }
 .main-nav {
- display: block;
- justify-content: space-between;
- width: 100%;
- position: fixed;
- z-index: 100;
- top: 0;
+display: block;
+justify-content: space-between;
+width: 100%;
+position: fixed;
+z-index: 100;
+top: 0;
 }
 
 .fst3{
@@ -24,11 +24,11 @@ body{
 }
 
 .contain-nav-div{
- display: flex;
- justify-content: space-between;
- background-color: black;
- color: white;
- max-width: 100%;
+display: flex;
+justify-content: space-between;
+background-color: black;
+color: white;
+max-width: 100%;
 }
 
 .nav-ul2, .nav-ul1 {
@@ -131,7 +131,7 @@ body{
   background-size: cover;
   background-color: black;
   z-index: 1;
-  background-position: top left; 
+  background-position: top left;
 }
 
 .the-two-pics2 {
@@ -182,14 +182,13 @@ i,
   column-gap: 3rem;
   height: auto;
   margin: 1rem 4rem;
-
 }
 
 .gg1, 
 .gg2, 
 .gg3, 
 .gg4 {
- margin-bottom: 4rem;
+margin-bottom: 4rem;
 }
 
 .gg1 {
@@ -533,8 +532,8 @@ z-index: 3;
 }
 
 .grid-last {
- position: relative;
- background-image: url("images/28.jpg");
+position: relative;
+background-image: url("images/28.jpg");
 }
 
 .grid-last2 {
@@ -675,7 +674,7 @@ z-index: 3;
 }
 
 @media only screen and (max-width: 700px) {
- .contain-nav-div {
+.contain-nav-div {
   display: block;
   justify-content: space-between;
 }
@@ -718,7 +717,7 @@ body{
 
 .get-update {
   font-size: 1.5rem;
-} 
+}
 
 .latest-news {
   font-size: 1rem;
