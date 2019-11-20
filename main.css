@@ -593,7 +593,7 @@ z-index: 3;
 .story-dealDiscount div {
   transform: rotate(45deg);
   font-size: 14px;
-  font-weight: 7000;
+  font-weight: bold;
   left: 8px;
   position: relative;
   text-align: center;
@@ -630,7 +630,7 @@ z-index: 3;
   justify-content: space-around;
   text-align: center;
   list-style-type: none;
-  padding: -4rem;
+  padding: 0;
 }
 
 .circlar-li {
