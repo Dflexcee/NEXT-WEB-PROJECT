@@ -220,7 +220,7 @@ i,
 
 .gg1,
 .gg2,
-.gg3, 
+.gg3,
 .gg4 {
   margin-bottom: 4rem;
 }
@@ -332,7 +332,6 @@ i,
   line-height: 2rem;
   text-decoration: inherit;
 }
-
 
 .caption-small a:hover {
   color: red;
