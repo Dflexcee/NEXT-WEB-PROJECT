@@ -45,7 +45,7 @@ i,
 .get-update a {
   font-size: 1rem;
   color: red;
-  margin: 3rem 4rem 0rem 0;
+  margin: 3rem 4rem 0 0;
   text-decoration: none;
 }
 
@@ -75,7 +75,7 @@ i,
   list-style-type: none;
 }
 
-.nav-ul2, 
+.nav-ul2,
 .nav-ul1 {
   display: flex;
   justify-content: space-around;
@@ -85,7 +85,7 @@ i,
   max-width: 100%;
 }
 
-.nav-ul2 li a, 
+.nav-ul2 li a,
 .nav-ul1 li a {
   margin: 1rem;
   text-decoration: none;
@@ -95,7 +95,7 @@ i,
 .contain-nav2 {
   background-color: white;
   color: black;
-  box-shadow: 0 4px 10px 0 rgba(0,0,0,0.16), 0 10px 20px 0 rgba(0,0,0,0.12);
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.16), 0 10px 20px 0 rgba(0, 0, 0, 0.12);
 }
 
 .nav-ul-under {
@@ -109,7 +109,7 @@ i,
   max-width: 100%;
 }
 
-.nav-ul-under li a, 
+.nav-ul-under li a,
 .nav-ul-under2 li a {
   color: black;
 }
@@ -218,8 +218,8 @@ i,
   margin: 1rem 4rem;
 }
 
-.gg1, 
-.gg2, 
+.gg1,
+.gg2,
 .gg3, 
 .gg4 {
   margin-bottom: 4rem;
@@ -232,7 +232,7 @@ i,
 .latest-news {
   font-size: 3rem;
   color: red;
-  margin: 3rem 0 0rem 4rem;
+  margin: 3rem 0 0 4rem;
   padding: 0;
   display: flex;
   justify-content: space-between;
@@ -352,6 +352,13 @@ i,
   justify-content: space-around;
   height: auto;
   position: relative;
+}
+
+.apps1 .fa {
+  color: red;
+  text-rendering: optimizeLegibility;
+  font-size: 3rem;
+  vertical-align: baseline;
 }
 
 .jj {
@@ -503,13 +510,6 @@ i,
   position: relative;
 }
 
-.apps1 .fa {
-  color: red;
-  text-rendering: optimizeLegibility;
-  font-size: 3rem;
-  vertical-align: baseline;
-}
-
 .apps1 {
   color: red;
   text-rendering: optimizeLegibility;
@@ -586,9 +586,7 @@ i,
 .story-dealDiscount div {
   transform: rotate(45deg);
   font-size: 14px;
-  font-weight: bold;
   left: 8px;
-  position: relative;
   text-align: center;
   text-transform: uppercase;
   top: 20px;
@@ -690,7 +688,8 @@ i,
     display: block;
   }
 
-  .right-2pic, .left-bigp {
+  .right-2pic,
+  .left-bigp {
     width: 98%;
   }
 
@@ -702,7 +701,10 @@ i,
     display: block;
   }
 
-  .gg1, .gg2, .gg3, .gg4 {
+  .gg1,
+  .gg2,
+  .gg3,
+  .gg4 {
     margin-bottom: 0;
   }
 
