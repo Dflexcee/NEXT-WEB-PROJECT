@@ -29,8 +29,6 @@ body{
  background-color: black;
  color: white;
  max-width: 100%;
-
-
 }
 
 .nav-ul2, .nav-ul1 {
@@ -115,7 +113,6 @@ body{
   background-color: black;
   z-index: 1;
   flex: 1;
-
 }
 
 .right-2pic {
@@ -195,7 +192,7 @@ i,
  margin-bottom: 4rem;
 }
 
-.gg1{
+.gg1 {
   display: block;
 }
 
@@ -283,7 +280,6 @@ i,
   list-style: none;
   margin: 0.4rem;
   width: 100%;
-  
 }
 
 .caption-small a {
@@ -312,7 +308,6 @@ i,
   justify-content: space-around;
   height: auto;
   position: relative;
-
 }
 
 .jj{
@@ -528,7 +523,6 @@ z-index: 3;
   font-size: 1.2rem;
   line-height: 2rem; 
   text-decoration: inherit;
-  
 }
 
 .small-flex11 ul {
@@ -701,8 +695,7 @@ body{
 .section-1{
   display: block;
 }
-  
-  
+
 .right-2pic, .left-bigp{
   width: 98%;
 }
@@ -738,5 +731,5 @@ body{
 .foot55 {
   padding: 1rem;
 }
+
 }
-  
