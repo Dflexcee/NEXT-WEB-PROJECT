@@ -692,6 +692,7 @@ i,
 .circlar-li:hover {
   background-color: #9f9f9f;
 }
+
 @media only screen and (max-width: 1000px) {
   .head1 {
     display: flex;
