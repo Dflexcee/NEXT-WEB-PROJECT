@@ -745,7 +745,7 @@ i,
   .forth-grid {
     display: block;
     width: 670px;
-    margin: auto;
+    margin: 2rem;
   }
 
   .get-update {
@@ -829,6 +829,8 @@ i,
 
   .forth-grid {
     display: block;
+    margin: 2rem;
+    width: 400px;
   }
 
   .get-update {
