@@ -17,9 +17,9 @@ body {
   z-index: 100;
   top: 0;
   background-color: white;
-  box-shadow: 
-  0 4px 10px 0 rgba(0, 0, 0, 0.16),
-  0 10px 20px 0 rgba(0, 0, 0, 0.12);
+  box-shadow:
+    0 4px 10px 0 rgba(0, 0, 0, 0.16),
+    0 10px 20px 0 rgba(0, 0, 0, 0.12);
 }
 
 .main-nav {
@@ -63,6 +63,7 @@ body {
   color: white;
   font-weight: bolder;
 }
+
 .small-link1,
 .h5-cover a,
 .h1-cover a,
