@@ -284,8 +284,6 @@ i,
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  border: solid red;
-  
 }
 
 .image-small4 {
@@ -765,7 +763,7 @@ i,
 
   .grid-div {
     display: grid;
-    grid-template-columns: 1.8fr 1.8fr 1.8fr;;
+    grid-template-columns: 1.8fr 1.8fr 1.8fr;
     margin: 1rem;
   }
 
@@ -862,13 +860,11 @@ i,
 
   .grid-mdv {
     display: block;
-    
   }
 
   .flec {
     display: flex;
     justify-content: space-between;
-    
   }
 
   .story-dealDiscount {
@@ -894,7 +890,6 @@ i,
 
   .third-grid {
     display: block;
-    
   }
 
   .forth-grid {
@@ -929,7 +924,6 @@ i,
     padding: 0;
     margin-top: 0rem;
   }
-
 
  .contain-nav-div {
   display: none;
