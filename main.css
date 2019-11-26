@@ -17,8 +17,9 @@ body {
   z-index: 100;
   top: 0;
   background-color: white;
-  box-shadow:
-  0 4px 10px 0 rgba(0, 0, 0, 0.16),0 10px 20px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 
+  0 4px 10px 0 rgba(0, 0, 0, 0.16),
+  0 10px 20px 0 rgba(0, 0, 0, 0.12);
 }
 
 .main-nav {
@@ -57,6 +58,11 @@ body {
   max-width: 100%;
 }
 
+.inner-foot1 a {
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+}
 .small-link1,
 .h5-cover a,
 .h1-cover a,
@@ -702,12 +708,6 @@ i,
   font-weight: lighter;
 }
 
-.inner-foot1 a {
-  text-decoration: none;
-  color: white;
-  font-weight: bolder;
-}
-
 .last-img {
   color: rgb(128, 87, 240);
   height: 5rem;
@@ -736,7 +736,7 @@ i,
   .main-nav {
     width: 90%;
   }
-  
+
   body {
     overflow: scroll;
     margin-top: 2rem;
@@ -925,7 +925,7 @@ i,
     margin-top: 9;
   }
 
- .contain-nav-div {
+  .contain-nav-div {
     display: none;
   }
 
