@@ -33,7 +33,7 @@ body {
   max-width: 100%;
   position: relative;
   z-index: 99;
-  display: none;
+  display: block;
 }
 
 .logo2 {
